@@ -24,11 +24,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void initView() {
+
         editText= findViewById(R.id.edt_text);
         findViewById(R.id.bt_save).setOnClickListener(this);
         findViewById(R.id.bt_Read).setOnClickListener(this);
 
     }
+
+
 
     @Override
     public void onClick(View v) {

@@ -5,4 +5,8 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="colorBlue">#03A9F4</color>
     <color name="colorwhite">#FFFFFF</color>
+    <color name="colorBG">#478942</color>
+    <color name="colorItem">#BFDABD</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorItemNew">#A6EBA9</color>
 </resources>
